@@ -1,0 +1,5 @@
+node_modules/
+hanv_bot.db
+hanv_bot.db-wal
+hanv_bot.db-shm
+.env

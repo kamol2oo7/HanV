@@ -1,0 +1,15 @@
+{
+  "name": "hanv-anki-bot",
+  "version": "1.0.0",
+  "description": "Korean-Uzbek vocabulary Telegram bot with AnkiDroid-style spaced repetition",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "dev": "node --watch src/bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "better-sqlite3": "^11.7.0",
+    "dotenv": "^16.4.0"
+  }
+}
