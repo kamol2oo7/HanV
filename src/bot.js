@@ -16,7 +16,7 @@ if (!TOKEN) { console.error('❌ Set TELEGRAM_BOT_TOKEN in .env'); process.exit(
 const PORT = process.env.PORT || 3000;
 const BOT_URL = process.env.BOT_URL;
 
-const bot = new TelegramBot(TOKEN, { webHook: { port: PORT } });
+const bot = new TelegramBot(TOKEN, { webHook: {} });
 
 // ─── Caches ───
 const sessions = new Map();
