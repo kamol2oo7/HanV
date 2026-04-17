@@ -2,6 +2,7 @@ require('dotenv').config({ path: require('path').join(__dirname, '..', '.env') }
 const TelegramBot = require('node-telegram-bot-api');
 const https = require('https');
 const http = require('http');
+const express = require('express');
 const db = require('./database');
 const srs = require('./srs');
 const config = require('./config');
@@ -12,9 +13,10 @@ const { t } = require('./i18n');
 const TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 if (!TOKEN) { console.error('❌ Set TELEGRAM_BOT_TOKEN in .env'); process.exit(1); }
 
-const bot = new TelegramBot(TOKEN, {
-  polling: { interval: 500, autoStart: true, params: { timeout: 10 } }
-});
+const PORT = process.env.PORT || 3000;
+const BOT_URL = process.env.BOT_URL;
+
+const bot = new TelegramBot(TOKEN, { webHook: { port: PORT } });
 
 // ─── Caches ───
 const sessions = new Map();
@@ -776,16 +778,37 @@ function startNotificationScheduler() {
 }
 
 // ─── Error handling ───
-bot.on('polling_error', (e) => {
-  if (e.code === 'ETELEGRAM' && e.message && e.message.includes('409')) {
-    console.error('⚠️ Another instance running!');
-    bot.stopPolling(); process.exit(1);
-  }
-  if (e.code !== 'ETELEGRAM') console.error('Poll:', e.code);
-});
 process.on('uncaughtException', (e) => console.error('Error:', e.message));
 process.on('unhandledRejection', (e) => console.error('Reject:', e));
-process.on('SIGINT', () => { bot.stopPolling(); process.exit(0); });
-process.on('SIGTERM', () => { bot.stopPolling(); process.exit(0); });
+process.on('SIGINT', () => { process.exit(0); });
+process.on('SIGTERM', () => { process.exit(0); });
 
-init();
+// ─── Express Server for Webhook ───
+const app = express();
+app.use(express.json());
+
+app.post(`/bot${TOKEN}`, (req, res) => {
+  bot.processUpdate(req.body);
+  res.sendStatus(200);
+});
+
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok' });
+});
+
+app.listen(PORT, async () => {
+  console.log(`🚀 Server listening on port ${PORT}`);
+
+  if (BOT_URL) {
+    try {
+      await bot.setWebHook(`${BOT_URL}/bot${TOKEN}`);
+      console.log(`✅ Webhook set to ${BOT_URL}/bot${TOKEN}`);
+    } catch (e) {
+      console.error('❌ Failed to set webhook:', e.message);
+    }
+  } else {
+    console.warn('⚠️ BOT_URL not set. Set it in env: BOT_URL=https://your-app-name.onrender.com');
+  }
+
+  init();
+});
