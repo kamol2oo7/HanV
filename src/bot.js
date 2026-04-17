@@ -793,7 +793,15 @@ app.post(`/bot${TOKEN}`, (req, res) => {
 });
 
 app.get('/health', (req, res) => {
-  res.status(200).json({ status: 'ok' });
+  res.status(200).json({ status: 'ok', webhook: BOT_URL ? 'configured' : 'NOT SET' });
+});
+
+app.get('/', (req, res) => {
+  res.status(200).json({
+    status: 'HanV Bot Running',
+    webhook_url: BOT_URL || 'BOT_URL not set - check Environment variables',
+    telegram_token: TOKEN ? '✅ set' : '❌ missing'
+  });
 });
 
 app.listen(PORT, async () => {
