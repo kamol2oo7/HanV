@@ -16,7 +16,10 @@ if (!TOKEN) { console.error('❌ Set TELEGRAM_BOT_TOKEN in .env'); process.exit(
 const PORT = process.env.PORT || 3000;
 const BOT_URL = process.env.BOT_URL;
 
-const bot = new TelegramBot(TOKEN, { polling: false });
+// Use polling locally, webhooks on Render
+const bot = BOT_URL
+  ? new TelegramBot(TOKEN, { polling: false })  // Webhook mode on Render
+  : new TelegramBot(TOKEN, { polling: true })   // Polling mode locally
 
 // ─── Caches ───
 const sessions = new Map();
@@ -783,7 +786,7 @@ process.on('unhandledRejection', (e) => console.error('Reject:', e));
 process.on('SIGINT', () => { process.exit(0); });
 process.on('SIGTERM', () => { process.exit(0); });
 
-// ─── Express Server for Webhook ───
+// ─── Express Server for Webhook (only on Render) ───
 const app = express();
 app.use(express.json());
 
@@ -801,15 +804,16 @@ app.get('/health', (req, res) => {
 app.get('/', (req, res) => {
   res.status(200).json({
     status: 'HanV Bot Running',
-    webhook_url: BOT_URL || 'BOT_URL not set - check Environment variables',
+    mode: BOT_URL ? 'Webhook (Render)' : 'Polling (Local)',
+    webhook_url: BOT_URL || 'Not using webhook',
     telegram_token: TOKEN ? '✅ set' : '❌ missing'
   });
 });
 
-app.listen(PORT, async () => {
-  console.log(`🚀 Server listening on port ${PORT}`);
-
-  if (BOT_URL) {
+if (BOT_URL) {
+  // Render mode - use Express + Webhook
+  app.listen(PORT, async () => {
+    console.log(`🚀 Server listening on port ${PORT}`);
     try {
       const webhookUrl = `${BOT_URL}${WEBHOOK_PATH}`;
       await bot.setWebHook(webhookUrl);
@@ -817,9 +821,10 @@ app.listen(PORT, async () => {
     } catch (e) {
       console.error('❌ Failed to set webhook:', e.message);
     }
-  } else {
-    console.warn('⚠️ BOT_URL not set. Set it in env: BOT_URL=https://your-app-name.onrender.com');
-  }
-
+    init();
+  });
+} else {
+  // Local mode - use Polling
+  console.log(`🚀 Running in polling mode (local development)`);
   init();
-});
+}
