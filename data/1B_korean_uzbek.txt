@@ -1,0 +1,357 @@
+#separator:tab
+#html:false
+#deck:1B
+#notetype:Basic
+할머니	buva
+할아버지	buvi
+어머니	ona
+아버지	ota
+누나	opa (o'g'il bolalar uchun)
+형	aka (o'g'il bolalarga)
+언니	opa (qizlarga)
+오빠	aka (qizlarga)
+여동생	singil
+남동생	uka
+아내	xotin
+남편	er
+딸	qiz farzand
+아들	o'g'il farzand
+열	10
+스물	20
+서른	30
+마흔	40
+쉰	50
+예순	60
+일흔	70
+여든	80
+아흔	90
+백	100
+이름/성함	ism
+집/댁	uy
+사람/명/분	odam
+나이/연세	yosh
+있다/계시다	bor bo'lmoq
+먹다/마시다/드시다	yemoq
+자다/주무시다	uxlamoq
+상자	quti
+꺼내다	sug'urmoq
+운전	haydamoq
+수학	matematika
+인사하다	salomlashmoq
+이쪽	bu
+한테서	-dan
+뭘요	unchalik emas
+동아리	to'garak
+같은과	o'xshash daraja
+윗사람	o'zidan katta odam
+역사	tarix
+이분	bu kishi
+우리	biz/bizning
+반친구	xonadosh
+다니다	qatnamoq
+친절하다	mehribon
+사장님	direktor
+전에	oldin
+멋있다	kelishgan
+부모님	ota-ona
+미인	chiroyli ayol
+대학교	universitet
+신문사	bosmaxona
+중학교	o'rta maktab
+공손하다	kamtar
+강아지	kuchukcha
+가족사진	oilaviy rasm
+웃다	kulmoq
+취미	hobby
+아기	chaqaloq
+태어나다	tug'ilmoq
+다른나라	boshqa davlat
+되다	bo'lmoq
+새벽	sahar
+아침	ertalab
+낮	kunduzi
+저녁	kechki payt
+밤	tun
+오전	obeddan oldin
+오후	obeddan keyin
+일어나다	uyg'onmoq
+버스를 기다리다	avtobus kutmoq
+운전하다	mashina minmoq
+버스를 타다	avtobusga minmoq
+세수하다	yuvinmoq
+청소하다	uy tozalamoq
+회의하다	majliz o'tkizmoq
+빨래하다	kir yuvmoq
+전화하다	telefon qilmoq
+컴퓨터를 하다	kompyuterda ishlamoq
+요리하다	ovqat pishirmoq
+샤워하다	dush qabul qilmoq
+시	soat
+분	minut
+반	yarim
+쯤	taxminan
+아침	nonushta
+저녁	kechki ovqat
+수업을 하다	dars qilmoq
+시험을 보다	imtixon topshirmoq
+그리다	rasm chizmoq
+이번	bu safar
+방학	ta'til
+조금 후	birozdan so'ng
+주말 잘 보내다	dam olish kunini yaxshi o'tkazmoq
+데이트하다	uchrashuvga chiqmoq
+박물관	muzey
+연습	mashq
+전통	milliy
+이메일	e-mail
+출입국관리사무소	muhojirlar markazi
+그렇지만	lekin
+머리	bosh
+목	bo'yin
+어깨	yelka
+팔	qo'l
+손	qo'l
+가슴	ko'krak
+배	qorin
+허리	bel
+다리	oyoq
+무릎	tizza
+발	oyoq
+눈	ko'z
+코	burun
+입	og'iz
+귀	quloq
+얼굴	yuz/aft/bet
+기침을 하다	yo'talmoq
+목이 아프다	tomog'i og'rimoq
+열이 나다	isitma chiqmoq
+콧물이 나다	burun oqmoq
+바쁘다	band bo'lmoq
+배고프다	qorni ochmoq
+예쁘다	chiroyli
+편지	xat
+쓰다	yozmoq
+나쁘다	yomon
+담배를 피우다	sigaret chekmoq
+알겠다	tushunarli
+늦다	kechikmoq
+감기에 걸리다	shamollamoq
+유행이다	urf bo'lmoq
+약	dori
+푹 쉬다	miriqib dam olmoq
+말을 하다	gapirmoq
+오래	uzoq vaqt
+목욕하다	hammom qilmoq
+술	aroq
+환자	bemor
+의사	doktor
+씻다	yuvmoq
+따뜻한 물	iliq suv
+얼음물	muzli suv
+손님	mehmon
+내년	kelasi yil
+결혼하다	turmush qurmoq
+괜찮다	durust bo'lmoq
+다행이다	xudoga shukur
+무리하다	ko'p ishlaganidan toliqmoq
+생신	tug'ilgan kun (hurmat)
+리포트	axborot
+내다	topshirmoq
+알람	budilnik
+끄다	o'chirmoq
+걱정	havotir
+발음	talaffuz
+피시방	kompyuter xona
+싸우다	urishmoq
+이렇게	bunday
+휴대전화 사용 금지	telefondan foydalanish taqiqlanadi
+금연	chekish taqiqlanadi
+주차금지	mashina qo'yish taqiqlanadi
+코 감기	burun shamollashi
+목 감기	tomoq shamollashi
+몸살 감기	tana shamollashi
+파	piyoz
+붙이다	yopishtirmoq
+소금물	tuzli suv
+헹구다	og'izni chaymoq
+무즙	rediska suvi
+마사지하다	massaj qilmoq
+전화번호	telefon raqam
+문자를 받다	sms olmoq
+문자를 보내다	sms jo'natmoq
+전화를 받다	qo'ng'iroq kelmoq
+전화를 하다	telefon qilmoq
+그렇습니다	shunday
+오랜만이에요	ko'rishmaganimizga ancha bo'ldi
+일	ish
+사무실	ofis
+맛없다	bemaza
+왜	nimaga
+조금 전	biroz oldin
+늦잠	uxlab qolmoq
+여행사	sayohat agentligi
+아까	biroz oldin
+그럼요	albatta
+이따	keyinroq
+다른	boshqa
+다	hammasi
+장소	joy
+도둑이 들다	o'g'ri kirmoq
+사고가 나다	avariya hosil bo'lmoq
+불이 나다	olov chiqmoq
+버스	avtobus
+기차	poyezd
+비행기	samalyot
+배	qayiq/kema
+택시	taksi
+자전거	velosiped
+지하철	metro
+오토바이	mototsikl
+타다	minmoq
+갈아타다	almashib chiqmoq
+내리다	tushmoq
+버스 정류장	avtobus bekati
+기차역	poyezd bekati
+고속 버스 터미널	tez yurar avtobus terminali
+지하철역	metro bekati
+닫다	yopmoq
+돕다	yordam bermoq
+칠판	doska
+울다	yig'lamoq
+쭉	to'g'riga
+아직	hali ham
+세우다	to'xtamoq
+신호등	svetofor
+정문	asosiy darvoza
+호선	metro liniyasi
+구급차	tez yordam mashinasi
+편리하다	qulay
+사용하다	foydalanmoq
+요금	to'lov
+그러면	u holda
+깎다	chegirma qilmoq
+셔츠	ko'ylak
+모자	bosh kiyim
+바지	shim
+치마	yubka
+코트	palto
+원피스	ko'ylak
+구두	tufli
+운동화	krasovka
+양복	kostyum
+입다	kiymoq
+신다	kiymoq (poyabzal)
+쓰다	bosh kiyim kiymoq
+크다	katta
+작다	kichkina
+길다	uzun
+짧다	kalta
+높다	baland
+낮다	past
+비싸다	qimmat
+싸다	arzon
+불편하다	noqulay
+편하다	qulay
+두껍다	qalin
+얇다	yupqa
+알다	bilmoq
+만들다	tayyorlamoq
+살다	yashamoq
+놀다	o'ynamoq
+팔다	sotmoq
+열다	ochmoq
+어떤	qanday
+유행이다	mashhur bo'lmoq
+무섭다	qo'rqinchli
+슬프다	g'amgin
+키	bo'y
+청바지	ko'k shim
+체격이 좋다	qomati yaxshi bo'lmoq
+마음	qalb
+미니스커트	mini yubka
+선물하다	sovg'a qilmoq
+보내다	jo'natmoq
+드리다	bermoq (hurmat)
+한번	bir marta
+막걸리	guruchli ichimlik
+도시	shahar
+한복	koreya milliy libosi
+티셔츠	futbolka
+스타일	stil
+단순하다	oddiy
+사탕	shirinlik
+수료식	yopilish marosimi
+목도리	sharf
+귀걸이	zirak
+기쁘다	hursand bo'lmoq
+가지다	olmoq
+모르겠어요	bilmayman
+축하	tabriklash
+새	yangi
+놀라다	hayron bo'lmoq
+먼저	birinchi navbatda
+묻다	so'ramoq
+돈을 바꾸다	pul almashtirmoq
+비행기표를 예매하다	samalyot biletini zakaz qilmoq
+여권을 만들다	passport tayyorlamoq
+호텔을 예약하다	mehmonxona bron qilmoq
+도착하다	yetib bormoq
+돌아오다	qaytib kelmoq
+여행하다	sayohat qilmoq
+출발하다	jo'nab ketmoq
+경치가 아름답다	tabiati chiroyli
+맛있는 음식이 많다	mazali ovqatlari ko'p
+물건 값이 싸다	mahsulot narxi arzon
+구경거리가 많다	tomosha joylari ko'p
+사람도 없고 조용하다	odam yo'q, tinch
+반지	uzuk
+프러포즈	rozilik
+날	kun
+떠나다	tashlab ketmoq
+찜닭	dimlangan tovuq
+즐겁다	zavqli
+휴가	ta'til
+야구 경기	beyzbol o'yini
+야구장	beyzbol maydoni
+말	ot/gap
+닭갈비	ovqat
+곳	joy
+신혼여행	asal oyi
+미술관	san'at galareyasi
+섬	orol
+올라가다	ko'tarilmoq
+보이다	ko'rinmoq
+계획하다	reja qilmoq
+식사하다	ovqatlanmoq
+연락하다	telefon qilmoq
+준비하다	tayyorlanmoq
+초대하다	taklif qilmoq
+축하하다	tabriklamoq
+늦게	kech
+많이	ko'p
+빨리	tez
+열심히	yurakdan
+일찍	vaqtli/erta
+잘	yaxshi
+조금	bir oz
+천천히	sekin sekin
+음료수	salqin ichimlik
+사 가다	sotib olib bormoq
+이사를 하다	ko'chib o'tmoq
+휴일	dam olish kuni
+돈을 찾다	pul olmoq
+팝콘	pop corn
+춤을 추다	raqs tushmoq
+들어오다	kirib kelmoq
+아니에요	unday emas
+곧	tez orada
+상대방	suhbatdosh
+시간을 보내다	vaqt o'tkazmoq
+참	aytgancha
+몰라요	bilmayman
+이메일 주소	email address
+놀이	o'yin
+세계	dunyo
+답장	javob
+세제	poroshok
+부자	boy

@@ -1,0 +1,455 @@
+#separator:tab
+#html:false
+#deck:2A
+#notetype:Basic
+학생 카드	o'quvchilik guvohnomasi
+성명	ism familya
+생년월일	tug'ilgan oy kuni
+연락처/전화번호	aloqa nomeri
+주소	adres
+전화	telefon
+성별	jins
+남	erkak
+여	ayol
+직업	kasb
+종교	din
+이메일	E-mail
+매일	har kuni
+매주	har hafta
+매년	har yili
+항상	har doim
+자주	tez-tez
+가끔	ba'zan
+이름을 부르다	chaqirmoq
+뵙다	ko'rishmoq
+그냥	shunchaki
+학교에 들어가다	kirib bormoq
+이유	sabab
+국적	millat
+나이/연세	yosh
+이름/성함	ism
+질문	savol
+평일	ish kunlari
+사 오다	sotib olib kelmoq
+초대를 받다	taklifni olmoq
+코미디 영화	komediya kino
+액션 영화	real kino
+소설책	roman kitob
+시간이 나다	vaqti bo'lmoq
+언어	til
+문화	madaniyat
+관심	qiziqish
+중남미	Lotin Amerikasi
+정도	darajada
+유명하다	mashhur bo'lmoq
+에 대해서	haqida
+발표하다	doklad qilmoq
+글자	xarf
+제일/가장	eng
+친하다	yaqin bo'lmoq
+성	familya
+빼다	sug'urmoq
+형제들	aka-ukalar
+비슷하다	o'xshash
+과제	mavzu
+문화 산책	madaniyatga sayohat
+발음	tovush
+규칙	qoida
+연습	mashq
+준비	tayyorlash
+취미	qiziqish
+사진을 찍다	rasmga olmoq
+음악을 듣다	musiqa eshitmoq
+춤을 추다	raqsga tushmoq
+그림을 그리다	rasm chizmoq
+인형을 모으다	qo'g'irchoq yig'moq
+인터넷을 하다	internetga kirmoq
+영화 감상	kinodan zavqlanish
+음악 감상	musiqadan zavqlanish
+등산	toqqa chiqish
+독서	kitob o'qish
+여행	sayohat
+요리	ovqat
+낚시	baliq ovi
+운동	sport
+컴퓨터 게임	kompyutor o'yini
+아주	juda
+별로	unchalik
+전혀	umuman
+야구를 하다	beyzbol o'ynamoq
+외국어	chet tili
+라틴 댄스	lotin raqsi
+동호회	klub/to'garak
+가입하다	a'zo bo'lmoq
+모으다	yig'moq
+모이다	yig'ilmoq
+연습실	mashq xonasi
+회비	a'zolik puli
+블로그	blog
+참	juda/rostan/ha aytgancha
+문화 센터	madaniyat markazi
+사진을 올리다	rasm qo'ymoq
+여러 가지	har xil
+콘서트	konsert
+음악회	musiqiy festival
+연극	teatr
+뮤지컬	musiqiy spektakl
+전시회	ko'rgazma
+축제	festival
+불꽃놀이	mushakbozlik
+사물놀이	milliy o'yin va raqslar
+배낭여행	rukzak osib sayohat qilish
+아르바이트	kunlik ish
+번지 점프	balandlikdan sakrash
+스쿠버 다이빙	g'avvoslik
+박물관	muzey
+미술관	san'at muzeyi/rasmlar galereyasi
+공연장	san'at saroyi
+놀이공원	park
+시간	vaqt
+달	oy
+노래방	karaoke
+삼계탕	ovqat nomi
+찜질방	sauna
+한복	koreya milliy kiyimi
+하루	kun bo'yi
+갔다 오다	borib kelmoq
+생선회	baliqli ovqat
+요가	yoga mashqi
+사막	cho'l/sahro
+온천	issiq buloq
+다시	yana/qayta
+빌려 주다	qarzga bermoq
+국제	xalqaro
+영화제	kino festivali
+재즈	jazz
+존경하다	qadrlamoq
+왕	qirol
+닭	tovuq
+자리	bo'sh joy
+꼭	albatta
+출장	komandirovka
+중요하다	muhim
+글쎄요	bilmadim
+특히	ayniqsa
+기억이 남다	xotirada qolmoq
+여러 나라	turli xil davlat
+벚꽃	olcha guli
+감독	direktor
+배우	aktyor
+낙타	tuya
+유럽	Yevropa
+말하기 대회	gapirish musobaqasi
+대회에 나가다	musobaqaga chiqmoq
+상을 받다	mukofot olmoq
+경험	tajriba
+하루	1 kun
+이틀	2 kun
+사흘	3 kun
+나흘	4 kun
+닷새	5 kun
+엿새	6 kun
+이레	7 kun
+여드레	8 kun
+아흐레	9 kun
+열흘	10 kun
+블라우스	kofta
+스웨터	svitr
+양복	kostyum
+티셔츠	futbolka
+청바지	jinsiy shim
+넥타이	galstuk
+장갑	qo'lqop
+스카프	ayollar sharfi
+입다	kiyim kiymoq
+쓰다	bosh kiyim kiymoq/ko'zoynak taqmoq
+끼다	qo'lqop kiymoq/uzuk taqmoq
+하다	sharf o'ramoq
+신다	oyoq kiyim kiymoq
+마음에 들다	qalbiga yoqmoq
+마음에 안 들다	qalbiga yoqmaslik
+잘 어울리다	yaxshi yarashmoq
+잘 안 어울리다	yaxshi yarashmaslik
+좀 크다	biroz katta
+잘 맞다	mos
+좀 작다	biroz kichik
+비싸다	qimmat
+싸다	arzon
+밝다	yorug'/ochiq
+어둡다	qorong'u/to'q
+길다	uzun
+짧다	kalta
+옷값	kiyim narxi
+맛	tam
+내용	mazmun
+디자인	dizayn
+유행하다	urf bo'lmoq
+훨씬	yanada
+산	tog'
+바다	dengiz
+여름	yoz
+겨울	qish
+도시	shahar
+시골	qishloq
+무서운 영화	qo'rqinchli kino
+코미디 영화	komediya kino
+건강하다	sog'lom bo'lmoq
+굽이 높다	poshnasi baland
+교환하다	mahsulot almashtirmoq
+환불하다	pulini qaytarib olmoq
+등산화	tog' krasovkasi
+필요하다	kerak
+절약하다	tejamoq
+직접	bevosita
+주문하다	buyurtma qilmoq
+면접	ishga kirish uchun suhbat
+물어 보다	so'rab ko'rmoq
+수산 시장	baliq bozori
+동네	mahalla
+싱싱하다	jonli
+넣다	solmoq/qo'ymoq
+고추장	qalampir sousi
+사이즈	razmer
+가격	narx
+색깔	rang
+길이	uzunligi
+기간	muddat
+교통편	transport
+숙소	qolish uchun joy
+요금	to'lov
+일정	dastur/reja
+박	kecha
+항공료	samalyot to'lovi
+숙박비	qolish uchun to'lov
+식비	ovqat to'lovi
+입장료	kirish to'lovi
+여행자 보험료	sayohatchining sug'urta to'lovi
+항공권 예약	avia biletga zakaz berish
+왕복	borib kelish
+편도	bir tomonlama borish yoki kelish
+출발지	jo'nash joyi
+도착지	yetib kelish joyi
+날짜 선택	sanani tanlash
+출국 날짜	chiqib ketish sanasi
+귀국 날짜	qaytib kelish sanasi
+달력	kalendar
+성인	yoshi katta
+소아	yosh bola
+유아	chaqaloq
+좌석	o'rindiq
+일반석	umumiy o'rindiq
+비즈니스석	biznes klas
+일등석	lyuks xona
+아마	ehtimol
+담배를 끊다	sigaretni tashlamoq
+돈을 모으다	pul yig'moq
+전통문화	milliy madaniyat
+느끼다	his qilmoq/sezmoq
+패키지여행	gruppaviy sayohat
+알아보다	bilib ko'rmoq
+공연	tomosha
+거리	ko'cha/masofa
+며칠	bir necha kun
+바라다	tilamoq/istamoq
+자세하다	batafsil ma'lumot bermoq
+여행지	sayyohlik joyi
+방법	usul
+마치다	tugatmoq
+포함되어 있다	o'z ichiga olmoq
+당일	kunlik
+추천하다	tavsiya qilmoq
+빈방	bo'sh xona
+가이드	tarjimon/tanishtiruvchi
+동서양	g'arb va sharq
+사이	orasi
+오래되다	ancha bo'lmoq
+건축물	arxitektura
+자연	tabiat
+다양하다	har xil
+가지고 가다	o'zi bilan olib ketmoq
+콘도	katta mehmonxona
+펜션	dacha uyga o'xshaydi
+게스트하우스	kesti uyi
+민박	xususiy turar joy
+이용하다	foydalanmoq
+한옥	koreya milliy qishlog'i
+전통적	milliylik
+분위기	muhit
+대통령	prezident
+종류	tur
+등록금	ro'yxatga olish puli
+우표를 붙이다	markani yopishtirmoq
+주소를 쓰다	adresni yozmoq
+봉투에 넣다	konvertga solmoq
+편지를 부치다	xat jo'natmoq
+엽서를 부치다	otkritka jo'natmoq
+소포를 포장하다	posilkani o'ramoq
+돈을 찾다	pul olmoq
+돈을 넣다	pul solmoq
+돈을 바꾸다	pul almashtirmoq
+돈을 보내다	pul jo'natmoq
+신분증	guvohnoma
+통장	bank kitobchasi
+도장	pechat
+현금 카드	naqd pul kartasi
+신용 카드	kredit kartasi
+퇴근 시간	ishdan chiqish vaqti
+길이 막히다	yo'l tirband
+들다	pul sarflamoq/ichkariga kirmoq/ko'tarmoq
+저울	tarozi
+올리다	qo'ymoq
+상자	quti/yashik
+맞다	to'g'ri/mos tushmoq
+오르다	yuqoriga ko'tarilmoq
+빠르다	tez
+노래를 부르다	kuylamoq
+모르다	bilmaslik
+다르다	boshqacha
+서두르다	shoshilmoq
+외국인등록증	chet elliklar guvohnomasi
+벌써	allaqachon
+차비	yo'lkira
+잃어버리다	yo'qotmoq
+가져오다	o'zi bilan olib kelmoq
+전부	hammasi
+환율	pul almashtirish kursi
+내리다	tushmoq
+위안	xitoy pul birligi
+유로	yevropa pul birligi
+엔	yapon pul birligi
+택배	yetkazuvchi firma
+맡기다	omonatga olmoq
+경비실	nazoratxona
+방문하다	tashrif buyurmoq
+수량	miqdori
+신청하다	ariza qilmoq
+우편	pochta xizmati
+바로	to'g'ridan to'g'ri/bevosita
+뽑다	ishga olmoq
+의미	ma'no
+새	qush/yangi
+제비	qaldirg'och
+소식	xabar
+전하다	yetkazmoq
+꽃집	gul do'koni
+사거리	to'rt yo'l chorrahasi
+신호등	svetafor
+지하도	yer osti yo'li
+육교	ko'prik
+횡단보도	piyodalar o'tish joyi
+쭉 가다	to'g'riga bormoq
+왼쪽으로 돌아가다	chap tarafga qaytib bormoq
+오른쪽으로 돌아가다	o'ng tarafga qaytib bormoq
+나가다	chiqmoq
+건너다	kesib o'tmoq
+세우다	mashina qo'ymoq
+직진하다	to'g'riga yurmoq
+좌회전하다	chap tarafga burmoq
+우회전하다	o'ng tarafga burmoq
+가져가다	o'zi bilan olib ketmoq
+학생회관	o'quvchilar zali
+근처	yaqinida
+출구	chiqish
+친구를 사귀다	do'stlashmoq
+한참	uzoq vaqt
+나오다	chiqib kelmoq
+사고가 나다	avariya sodir bo'lmoq
+경찰서	politsiya xona
+잊다	unutmoq
+알려 주다	bildirib bermoq
+지나다	dan o'tmoq
+미터	metr
+걸어오다	piyoda kelmoq
+올라오다	ko'tarilib kelmoq
+약도	yo'nalish xaritasi
+보건소	sog'liqni saqlash markazi
+내려가다	tushib bormoq
+광장	maydon
+동상	haykal
+기념하다	xotiralamoq
+이름을 붙이다	nomlamoq
+기분이 좋다	kayfiyati yaxshi
+기분이 나쁘다	kayfiyati yomon
+기쁘다	xursand
+슬프다	g'amgin
+외롭다	yolg'izlikdan siqilmoq
+창피하다	uyalmoq
+즐겁다	zavqlanmoq
+속상하다	hafa bo'lmoq
+답답하다	siqilmoq
+긴장되다	hayajonlamoq
+걱정되다	xavotirlanmoq
+화가 나다	jahli chiqmoq
+짜증이 나다	asabiylashmoq
+무섭다	qo'rqinchli
+재미있다	qiziqarli
+교통사고가 나다	avariya sodir bo'lmoq
+퇴원하다	kasalxonadan chiqmoq
+이사를 가다	ko'chib ketmoq
+노트북	notebook
+고장이 나다	buzilmoq
+큰 소리로	baland ovozda
+잘못	noto'g'ri
+운이 없다	omadsiz
+잠이 들다	uxlab qolmoq
+지나가다	o'tib ketmoq
+놓치다	o'tkazib yubormoq
+넘어지다	yiqilib tushmoq
+졸다	mudramoq
+종점	so'ngi to'xtash joyi
+외우다	yodlamoq
+답	javob
+방송국	televideniya
+인터뷰	intervyu
+시간을 내다	vaqt ajratmoq
+스트레스를 풀다	stressni yechmoq
+무엇보다	hammasidan ko'ra
+사 가다	sotib olib bormoq
+대답하다	javob bermoq
+당황하다	qoyil qolmoq
+표현하다	ifodalmoq
+설명하다	tushuntirmoq
+전화를 걸다	telefon qilmoq
+전화가 오다	telefon kelmoq
+전화를 받다	telefonni olmoq
+전화를 바꾸다	telefonni ulab bermoq
+통화를 하다	aloqalashmoq
+전화를 끊다	telefonni qo'ymoq
+문자를 보내다	sms jo'natmoq
+문자를 받다	sms olmoq
+문자를 지우다	smsni o'chirmoq
+대상	maqsad/qatnashuvchilar
+장소	joy
+참가비	qatnashish to'lovi
+접수	qabul
+문의	ma'lumot so'rash
+부탁하다	iltimos
+공사	qurilish
+외국인	chet ellik
+을/를 위한	uchun
+국악	milliy musiqa
+동양화	sharq rassomchiligi
+전시	ko'rgazma
+애니메이션	animatsiya
+상영	namoyish
+남다	qolmoq
+술	aroq
+잠	uyqu
+말씀하다	gapirmoq (hurmat)
+무료	tekin
+태권도복	taykvondo kiyimi
+다도	choy marosimi
+악기	cholg'u asbob
+체험	tajriba
+재료비	material to'lovi
+퀴즈	savol javob
+프로그램	programma
+참가하다	qatnashmoq
+한국학	koreya tili yo'nalishi
+궁금하다	tashvishlanmoq
+갑자기	to'satdan
+상담원	operator
+통역하다	og'zaki tarjima qilmoq
+치료를 받다	diagnozni olmoq
+통역	og'zaki tarjima
+정보를 얻다	ma'lumot olmoq

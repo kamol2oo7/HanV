@@ -44,7 +44,7 @@ module.exports = {
   },
   
   // Path to vocabulary files
-  VOCAB_DIR: require('path').join(__dirname, '..', '..'),
+  VOCAB_DIR: require('path').join(__dirname, '..', 'data'),
   
   // Deck file mapping
   DECK_FILES: {

@@ -1,0 +1,416 @@
+#separator:tab
+#html:false
+#deck:1A
+#notetype:Basic
+오	besh
+이	bu/tish
+아우	bola
+아이	bola
+오이	bodring
+가수	qo'shiqchi
+고기	go'sht
+구두	tufli
+나라	davlat
+나무	daraxt
+다리	oyoq
+라디오	radio
+머리	bosh
+바나나	banan
+바지	shim
+소	sigir
+아기	chaqaloq
+어머니	ona
+지도	xarita
+모자	bosh kiyim
+아버지	ota
+허리	bel
+지하	yer osti
+야구	beyzbol
+야자수	palma
+이야기	suhbat
+여자	ayol
+벼	guruch
+혀	til
+요가	yoga
+요리	ovqat pishirih
+교수	professor
+유리	shisha
+휴지	tualet qog'ozi
+우유	sut
+카드	karta
+코	burun
+키	balandlik
+타조	tuyaqush
+토마토	pomidor
+투우수	matador
+파리	Parij
+포도	uzum
+우표	pochta markasi
+차	choy
+치마	yubka
+고추	qalampir
+커피	kofe
+코트	palto
+기차표	poyezd bilet
+까치	zog'cha
+꼬리	dum
+코끼리	fil
+따다	uzmoq
+뜨다	suzmoq
+머리띠	abadok
+뿌리	tomir,ildiz
+뼈	suyak
+아빠	ota
+싸다	arzon
+쓰다	yozmoq/foydalanmoq
+아저씨	ko'chadagi amaki
+짜다	sho'r
+찌다	bug'lamoq
+가짜	qalbaki
+개미	chumoli
+배	qayiq
+새	qush
+해	quyosh
+게	qisqichbaqa
+세수	yuvinish
+그네	arg'imchoq
+카메라	kamera
+얘기	suhbat
+예쁘다	chiroyli
+서예	xattotlik
+시계	soat apparati
+과자	pishiriq
+와이셔츠	ko'ylak
+화가	jahl
+사과	olma
+뭐	nima
+줘요	bermoq
+더워요	issiq
+추워요	sovuq
+돼지	cho'chqa
+왜	nimaga
+웨이터	ofitsant
+스웨터	svitr
+쇠고기	mol go'shti
+외우다	yodlamoq
+회사	firma
+두뇌	miyya
+귀	quloq
+쉬다	dam olmoq
+쥐	sichqon
+가위	qaychi
+의사	doktor
+의자	stul
+여의도	Yoi oroli
+회의	majliz
+수박	tarvuz
+책	kitob
+부엌	uy oshxonasi/kuxnya
+밖	tashqari
+돈	pul
+레몬	limon
+신문	gazeta
+우산	zontik
+곧	yaqinda
+밑	osti
+빗	taroq
+옷	kiyim
+낮	kunduzi
+꽃	gul
+빛	nur
+딸기	qulupnay
+물	suv
+발	oyoq
+연필	qalam
+곰	ayiq
+남자	erkak
+엄마	ona
+컴퓨터	kompyuter
+밥	qaynatilgan guruch
+입	og'iz
+무릎	tizza
+숲	o'rmon
+가방	sumka
+공	koptok
+냉장고	muzlatkich
+창문	deraza
+중국	Xitoy
+일본	Yaponiya
+미국	AQSH
+한국	Koreya
+프랑스	Fransiya
+독일	Germaniya
+호주	Avstraliya
+영국	Angliya
+알맞다	mos
+단어	so'z
+선생님	o'qituvchi
+학생	o'quvchi
+회사원	firma ishchisi
+요리사	oshpaz
+기자	muxbir
+군인	askar
+만나다	uchrashmoq
+반갑다	xursand bo'lmoq
+한국말	koreys tili
+그림	surat (chizilgan)
+이야기하다	suhbatlashmoq
+저	men/anavi
+씨	janob/xonim
+네	ha
+주부	uy bekasi
+캐나다	Kanada
+국적	millat
+묻다	so'ramoq
+인도	Hindiston
+직업	kasb
+아니요	yo'q
+무엇	nima
+러시아	Rossiya
+파키스탄	Pokiston
+친구	do'st
+명함	ism karta
+이름	ism
+전화번호	telefon raqam
+영어	ingliz tili
+블로그	internetdagi blog
+찾다	qidirmoq
+과제	topshiriq
+문화	madaniyat
+책상	parta
+공책	daftar
+볼펜	ruchka
+지우개	ochirg'ich
+안경	ko'zoynak
+휴대폰	telefon
+남자친구	yigit o'rtoq
+동전	tanga
+한국어	koreys tili
+여자친구	qiz o'rtoq
+필통	penal/qalamdon
+전자사전	elektron lug'at
+자	chizg'ich
+잡지	jurnal
+지갑	hamyon
+콜라	kola
+주스	sharbat
+교통카드	transport kartasi
+사전	lug'at
+텔레비전	televizor
+방	xona
+침대	kravat
+룸메이트	xonadosh
+에어컨	konditsioner
+자다	uxlamoq
+공부하다	o'qimoq/o'rganmoq
+일하다	ishlamoq
+운동하다	sport bilan shug'ullanmoq
+숙제를 하다	uy vazifa qilmoq
+옷을 사다	kiyim sotib olmoq
+영화를 보다	kino ko'rmoq
+친구를 만나다	do'sti bilan uchrashmoq
+태권도를 배우다	tekvando o'rganmoq
+밥을 먹다	ovqat yemoq
+커피를 마시다	kofe ichmoq
+책을 읽다	kitob o'qimoq
+도서관	kutubxona
+집	uy
+백화점	univermag
+시장	bozor
+공원	park/bog'
+커피숍	kafe
+극장	kinoteatr
+학교	maktab
+식당	oshxona
+지금	hozir
+쉬다	dam olmoq
+보다	ko'rmoq
+사다	sotib olmoq
+먹다	yemoq
+마시다	ichmoq
+읽다	o'qimoq
+배우다	o'rganmoq
+일본어	yapon tili
+아르바이트하다	qo'shimcha ish qilmoq
+만나다	uchrashmoq
+오늘	bugun
+어디	qayer
+프랑스어	fransuz tili
+드라마	serial/dorama
+스포츠 센터	sport markazi
+가르치다	o'qitmoq
+공항	aeroport
+우체국	pochta
+대사관	elchixona
+은행	bank
+가게	magazin
+약국	apteka
+병원	kasalxona
+미용실	sartaroshxona
+앞	oldi
+뒤	orqasi
+옆	yoni
+안	ichi
+아래/밑	osti/tagi
+위	usti
+교실	sinf xona
+찻집	choyxona
+서울	Seul
+시내	shahar markazi
+구경하다	tomosha qilmoq
+쇼핑하다	xarid qilmoq
+연극	teatr
+알다	bimoq
+잘 지내다	ishlari yaxshi bo'lmoq
+기숙사	yotoqxona
+사진	rasm
+매일	har kuni
+사랑하다	sevmoq
+서점	kitob do'koni
+빵집	nonvoyxona
+화장실	hojatxona
+음식	ovqat/taom
+기념품	suvenir
+월요일	dushanba
+화요일	seshanba
+수요일	chorshanba
+목요일	payshanba
+금요일	juma
+토요일	shanba
+일요일	yakshanba
+주말	hafta oxiri
+날짜	sana
+요일	hafta kuni
+시험	imtixon
+언제	qachon
+생일	tug'ilgan kun
+크리스마스	krismas
+파티	bazm
+시간	vaqt
+미안하다	uzr so'ramoq
+약속	uchrashuv/vada
+같이	birga
+어제	kecha
+카드	karta
+선물	sovg'a
+세수하다	yuvinmoq
+이를 닦다	tish yuvmoq
+산책하다	sayr qilmoq
+사진을 찍다	rasm olmoq
+누구	kim
+혼자	yolg'iz
+끝나다	tugamoq
+내일	ertaga
+지난주	o'tgan hafta
+설날	yangi yil
+세배를 하다	tazim qilmoq
+떡국	tokkuk
+추석	hosil bayrami/shukronalik kuni
+차례를 지내다	marosim o'tkazmoq
+샌드위치	sendvich
+스파게티	spagetti
+햄버거	gamburger
+귤	mandarin
+앉다	o'tirmoq
+주다	bermoq
+기다리다	kutmoq
+빵	non
+아이스크림	muzqaymoq
+녹차	ko'k choy
+메뉴	menyu
+좋아하다	yaxshi ko'rmoq
+우동	udon taomi
+맥주	pivo
+좋다	yaxshi
+길	yo'l
+복잡하다	tiqilinch
+노래	qo'shiq
+운동화	krossovka
+모두	hammasi
+키위	kivi
+파인애플	ananas
+멜론	qovun
+달걀	tuxum
+케이크	tort
+아이스커피	muzli kofe
+에스프레소	espresso
+돈가스	kotlet
+점심	tushlik
+팔다	sotmoq
+전화하다	telefon qilmoq
+비싸다	qimmat
+깎아 주다	arzon qilmoq
+백김치	oq kimchi
+깍두기	rediskali kimchi
+오이김치	bodring kimchi
+물김치	suvli kimchi
+김치볶음밥	qovurilgan guruch
+김치전	kimchi quymoq
+얼마	qancha
+흐리다	bulutli
+맑다	havo ochiq
+덥다	issiq
+춥다	sovuq
+따뜻하다	iliq
+시원하다	salqin
+비가 오다	yomg'ir yog'moq
+눈이 오다	qor yog'moq
+계절	fasl
+봄	bahor
+여름	yoz
+가을	kuz
+겨울	qish
+쉽다	oson
+어렵다	qiyin
+맵다	achchiq
+가볍다	yengil
+무겁다	og'ir
+날씨	ob havo
+재미있다	qiziqarli
+재미없다	qiziq emas
+요즘	shu kunlarda
+고향	vatan
+스키장	chang'i kompleksi
+수영장	suzish kompleksi
+바다	dengiz
+부산	Pusan
+작년	o'tgan yili
+항상	doim
+처음	ilk bor
+만들다	tayyorlamoq
+필요하다	zarur bo'moq
+태국	Tailand
+수영하다	suzmoq
+선글라스	ko'zoynak (quyosh)
+골프	golf
+자전거	velosiped
+게임	o'yin
+테니스	tennis
+농구	basketbol
+피아노	pianino
+당구	billiard
+스키	chang'i
+기타	gitara
+스케이트	skeyt
+축구	futbol
+치다	o'ynamoq,chalmoq
+타다	minmoq/uchmoq
+낮잠을 자다	kunduzgi uyqu uxlamoq
+등산을 하다	tog'ga chiqmoq
+산책을 하다	sayr qilmoq
+여행을 하다	sayohat qilmoq
+노래방에 가다	karaokega bormoq
+찜질방에 가다	saunaga bormoq
+걷다	yurmoq
+음악	musiqa
+듣다	eshitmoq
+뉴스	yangilik
+심심하다	zerikarli
+그런데	lekin
+어떻게	qanday qilib
+가깝다	yaqin
+정말	haqiqatdan
+자주	tez tez
+피곤하다	charchamoq
+소개하다	tanishtirmoq
+소개팅	tanishuv uchrashuvi
