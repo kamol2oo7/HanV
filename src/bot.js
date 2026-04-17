@@ -787,7 +787,9 @@ process.on('SIGTERM', () => { process.exit(0); });
 const app = express();
 app.use(express.json());
 
-app.post(`/bot${TOKEN}`, (req, res) => {
+const WEBHOOK_PATH = '/webhook';
+
+app.post(WEBHOOK_PATH, (req, res) => {
   bot.processUpdate(req.body);
   res.sendStatus(200);
 });
@@ -809,8 +811,9 @@ app.listen(PORT, async () => {
 
   if (BOT_URL) {
     try {
-      await bot.setWebHook(`${BOT_URL}/bot${TOKEN}`);
-      console.log(`✅ Webhook set to ${BOT_URL}/bot${TOKEN}`);
+      const webhookUrl = `${BOT_URL}${WEBHOOK_PATH}`;
+      await bot.setWebHook(webhookUrl);
+      console.log(`✅ Webhook set to ${webhookUrl}`);
     } catch (e) {
       console.error('❌ Failed to set webhook:', e.message);
     }
